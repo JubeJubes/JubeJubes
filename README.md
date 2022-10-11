@@ -1,5 +1,5 @@
 - 👋 Hola amigos, I’m @JubeJubes
-- 🌱 This is my playground that I use to learn all things webdev
+- 🌱 This is my playground that I use to learn all things webdev related
 - 📫 How to reach me - jubejubesgit@gmail.com
 
 <!---
