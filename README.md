@@ -1,6 +1,4 @@
-- 👋 Hola amigos, I’m @JubeJubes
-- 🌱 This is my playground that I use to learn all things webdev related
-- 📫 You may reach me at - jubejubesgit@gmail.com
+- 👋 Hola amigos.
 
 <!---
 JubeJubes/JubeJubes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
